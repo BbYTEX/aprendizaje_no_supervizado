@@ -20,6 +20,7 @@ La empesa RetailMax te ha contratado como consultor de ciencia de datos para ayu
 Este proyecto consiste en 2 notebooks y un reporte final:
 - [1_EDA.ipynb](./1_EDA.ipynb): en este notebook deberás realizar un análisis exploratorio de datos contestando a las preguntas expuestas en el notebook.
 - [2_clustering.ipynb](./2_clustering.ipynb): implementar el algoritmo K-Means para identificar clusters de clientes.
+- [REPORTE_FINAL.md](./REPORTE_FINAL.md): recomendaciones de marketing basadas en los clusters.
 - Elaborar tu reporte final como se describe en Hybridge Hub
 
 
